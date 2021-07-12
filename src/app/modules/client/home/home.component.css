@@ -1,0 +1,10 @@
+.line {
+  cursor: pointer !important;
+  width: 500px;
+}
+
+
+
+.accordion-body{
+  width: 80%!important;
+}
